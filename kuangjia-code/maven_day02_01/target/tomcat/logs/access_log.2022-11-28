@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [28/Nov/2022:14:27:51 +0800] "GET /maven_day02_01 HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [28/Nov/2022:14:27:52 +0800] "GET /maven_day02_01/ HTTP/1.1" 200 131 http-bio-8080-exec-3 1087
+0:0:0:0:0:0:0:1 - - [28/Nov/2022:14:28:07 +0800] "GET /maven_day02_01/items/findItemsById HTTP/1.1" 200 646 http-bio-8080-exec-4 1003

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/maven_day02_01" />
+    <file type="web" url="file://$PROJECT_DIR$/maven_day02_parent/maven_day02_web" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_day01_01_start" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc_day02_01_response" />
+    <file type="web" url="file://$PROJECT_DIR$/../web-code/travel" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_day01/day01_eesy_03spring/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_day03/day03_eesy_01account/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_day04/day04_eesy_02accountAOP_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_day04/day04_eesy_04tx/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_day04/day04_eesy_01jdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_day04/day04_eesy_05tx_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_day02_01/pom.xml" />
+        <option value="$PROJECT_DIR$/maven_day02_parent/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" project-jdk-name="9.0" project-jdk-type="JavaSDK" />
+</project>
